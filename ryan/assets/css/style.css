@@ -1,0 +1,18 @@
+.jumbotron{
+    background-color: white; 
+    background-position: bottom;  
+    background-size: 10%;
+}
+.text-center{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900; 
+}
+
+.body{
+    background-image: url(delete-apps.w700.h467.2x.gif);
+    background-position: center; 
+}
+
+.table{
+    font-weight: 900; 
+}
