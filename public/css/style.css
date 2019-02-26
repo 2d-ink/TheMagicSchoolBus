@@ -1,0 +1,23 @@
+.jumbotron{
+    background-color: white; 
+    background-position: bottom;  
+    background-size: 10%;
+}
+.text-center{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900; 
+}
+
+.body{
+    background-image: url("../assets/1.gif");
+    background-position: center; 
+}
+
+.table{
+    font-weight: 900; 
+}
+
+.list-group-item {
+    line-height: 2.5;
+  }
+  
