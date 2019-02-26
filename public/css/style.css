@@ -9,10 +9,15 @@
 }
 
 .body{
-    background-image: url(delete-apps.w700.h467.2x.gif);
+    background-image: url("../assets/1.gif");
     background-position: center; 
 }
 
 .table{
     font-weight: 900; 
 }
+
+.list-group-item {
+    line-height: 2.5;
+  }
+  
